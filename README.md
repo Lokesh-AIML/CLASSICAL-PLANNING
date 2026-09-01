@@ -123,7 +123,7 @@ actions = {
 plan = find_plan(initial_state, goal_state, actions)
 print("Output:", plan)
 ```
-#Output
+# Output
 <img width="464" height="113" alt="image" src="https://github.com/user-attachments/assets/83d70800-27f8-4f49-9794-748b5dae9531" />
 
 # Result
